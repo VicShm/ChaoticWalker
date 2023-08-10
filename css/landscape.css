@@ -1,0 +1,34 @@
+body {  
+  text-align: -webkit-center;
+  padding: 0;
+  margin: 0;
+  width: calc(100% - 100px);
+  height: 100vh;
+  background-size: cover;
+  background: green;
+}
+
+.all_ways {position: absolute; top: 0; left: 0; padding: 0; width: 40%; margin: 0; visibility: hidden;}
+.buttons {position: absolute;padding: 0; height: auto; width: 10%; margin: 0; background-color: yellow;}
+.ways_stack{visibility: hidden;}
+#button2 {top: 10%; left: 60%;content: url("../images/w2.png");}
+#button3 {top: 10%; left: 75%;content: url("../images/w3.png");}
+#button4 {top: 10%; left: 90%;content: url("../images/w4.png");}
+#button5 {top: 35%; left: 60%;content: url("../images/w5.png");}
+#button6 {top: 35%; left: 75%;content: url("../images/w6.png");}
+#button7 {top: 35%; left: 90%;content: url("../images/w7.png");}
+
+#way_ground{position: absolute; top: 0; left: 0; padding: 0; width: 40%; margin: 0; content: url("../images/ChaosBase.png");}
+#w2 {content: url("../images/w2.png");}
+#w3 {content: url("../images/w3.png");}
+#w4 {content: url("../images/w4.png");}
+#w5 {content: url("../images/w5.png");}
+#w6 {content: url("../images/w6.png");}
+#w7 {content: url("../images/w7.png");}
+#d1 {content: url("../images/d1.png");}
+#d2 {content: url("../images/d2.png");}
+#d3 {content: url("../images/d3.png");}
+#d4 {content: url("../images/d4.png");}
+#d5 {content: url("../images/d5.png");}
+#d6 {content: url("../images/d6.png");}
+#d7 {content: url("../images/d7.png");}
